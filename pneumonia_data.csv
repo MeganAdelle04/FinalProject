@@ -1,0 +1,180 @@
+1,3,male,15.2,100,no,rural,no,no,98,37,none,5
+2,4,female,18.1,105,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+3,2,male,12.5,90,yes,rural,yes,yes,93,37.9,"coughing, chest pain, difficulty breathing",160
+4,5,female,20,110,no,urban,no,no,99,36.8,none,10
+5,3,male,14,95,yes,urban,yes,yes,96,37.1,"coughing, appetite loss",20
+6,1,female,10.5,80,no,rural,no,no,98,36.9,none,8
+7,2,male,13.2,85,yes,urban,yes,yes,91,38,"coughing, weakness, chest pain",145
+8,4,female,17.5,102,no,rural,yes,no,97,37,"coughing, difficulty breathing",15
+9,5,male,21,115,yes,urban,yes,yes,90,38.3,"coughing, weakness, difficulty breathing, appetite loss",170
+10,3,female,16,98,no,rural,no,no,98,36.7,none,5
+11,2,male,11.8,88,yes,urban,yes,yes,92,38.1,"coughing, chest pain",155
+12,4,female,19.2,107,no,rural,no,no,99,37,none,12
+13,1,male,9.5,78,yes,urban,yes,no,98,37,coughing,15
+14,5,female,22.1,112,no,rural,yes,no,97,37.2,"coughing, appetite loss",25
+15,3,male,14.8,99,yes,urban,yes,yes,91,38,"coughing, weakness, chest pain",140
+16,2,female,12,87,no,rural,no,no,98,36.9,none,7
+17,4,male,18.5,103,yes,urban,yes,yes,90,38.2,"coughing, difficulty breathing, appetite loss",175
+18,5,female,20.5,110,no,rural,yes,no,97,37,"coughing, weakness",30
+19,3,male,13.7,96,yes,urban,yes,yes,92,38.3,"coughing, chest pain, difficulty breathing",160
+20,1,female,11,82,no,rural,no,no,99,36.8,none,10
+21,4,male,19.5,108,yes,urban,yes,yes,91,38.1,"coughing, weakness",150
+22,2,female,11.2,88,no,rural,no,no,99,37.1,none,12
+23,5,male,22,113,yes,urban,yes,yes,92,38.3,"coughing, chest pain",155
+24,3,female,14.9,98,no,rural,no,no,97,36.9,none,8
+25,1,male,9,77,yes,urban,yes,no,96,37,"coughing, weakness",18
+26,2,female,12.3,86,no,rural,no,no,99,36.8,none,6
+27,5,male,21.5,112,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+28,4,female,18.7,105,no,rural,yes,yes,96,37,"coughing, appetite loss",20
+29,3,male,15.5,101,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+30,1,female,10.2,79,no,rural,no,no,98,36.9,none,5
+31,4,male,19.8,109,yes,urban,yes,no,97,37.2,"coughing, appetite loss",20
+32,2,female,11.5,89,no,rural,no,no,99,37.1,none,12
+33,5,male,22.3,114,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+34,3,female,15.2,99,no,rural,no,no,97,36.9,none,8
+35,1,male,9.3,80,yes,urban,yes,no,96,37,"coughing, appetite loss",20
+36,2,female,12.6,87,no,rural,no,no,99,36.8,none,6
+37,5,male,21.8,111,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+38,4,female,19,106,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+39,3,male,15.8,102,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+40,1,female,10.5,81,no,rural,no,no,98,36.9,none,5
+41,4,male,20.1,110,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+42,2,female,11.8,90,no,rural,no,no,99,37.1,none,12
+43,5,male,22.6,115,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+44,3,female,15.5,100,no,rural,no,no,97,36.9,none,8
+45,1,male,9.6,82,yes,urban,yes,no,96,37,"coughing, appetite loss",20
+46,2,female,12.9,88,no,rural,no,no,99,36.8,none,6
+47,5,male,22.1,113,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+48,4,female,19.3,107,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+49,3,male,16.1,103,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+50,1,female,10.8,83,no,rural,no,no,98,36.9,none,5
+51,4,male,20.4,111,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+52,2,female,12.1,91,no,rural,no,no,99,37.1,none,12
+53,5,male,22.9,116,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+54,3,female,15.8,101,no,rural,no,no,97,36.9,none,8
+55,1,male,9.9,84,yes,urban,yes,no,96,37,"coughing, weakness",20
+56,2,female,13.2,89,no,rural,no,no,99,36.8,none,6
+57,5,male,22.4,114,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+58,4,female,19.6,108,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+59,3,male,16.4,104,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+60,1,female,11.1,84,no,rural,no,no,98,36.9,none,5
+61,4,male,20.7,112,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+62,2,female,12.4,92,no,rural,no,no,99,37.1,none,12
+63,5,male,23.2,117,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+64,3,female,16.1,102,no,rural,no,no,97,36.9,none,8
+65,1,male,10.2,85,yes,urban,yes,no,96,37,"coughing, appetite loss",20
+66,2,female,13.5,90,no,rural,no,no,99,36.8,none,6
+67,5,male,22.7,115,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+68,4,female,19.9,109,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+69,3,male,16.7,105,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+70,1,female,11.4,85,no,rural,no,no,98,36.9,none,5
+71,4,male,21,113,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+72,2,female,12.7,93,no,rural,no,no,99,37.1,none,12
+73,5,male,23.5,118,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+74,3,female,16.4,103,no,rural,no,no,97,36.9,none,8
+75,1,male,10.5,86,yes,urban,yes,no,96,37,"coughing, appetite loss",20
+76,2,female,13.8,91,no,rural,no,no,99,36.8,none,6
+77,5,male,23,116,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+78,4,female,20.2,110,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+79,3,male,17,106,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+80,1,female,11.7,86,no,rural,no,no,98,36.9,none,5
+81,4,male,21.3,114,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+82,2,female,13,94,no,rural,no,no,99,37.1,none,12
+83,5,male,23.8,119,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+84,3,female,16.7,104,no,rural,no,no,97,36.9,none,8
+85,1,male,10.8,87,yes,urban,yes,no,96,37,"coughing, appetite loss",20
+86,2,female,14.1,92,no,rural,no,no,99,36.8,none,6
+87,5,male,23.3,117,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+88,4,female,20.5,111,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+89,3,male,17.3,107,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+90,1,female,12,87,no,rural,no,no,98,36.9,none,5
+91,4,male,21.6,115,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+92,2,female,13.3,95,no,rural,no,no,99,37.1,none,12
+93,5,male,24.1,120,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+94,3,female,17,105,no,rural,no,no,97,36.9,none,8
+95,1,male,11.1,88,yes,urban,yes,no,96,37,"coughing, appetite loss",20
+96,2,female,14.4,93,no,rural,no,no,99,36.8,none,6
+97,5,male,23.6,118,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+98,4,female,20.8,112,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+99,3,male,17.6,108,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+100,1,female,12.3,88,no,rural,no,no,98,36.9,none,5
+101,3,male,15.2,100,no,rural,no,no,98,37,none,5
+102,4,female,18.1,105,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+103,2,male,12.5,90,yes,rural,yes,yes,93,37.9,"coughing, chest pain, difficulty breathing",160
+104,5,female,20,110,no,urban,no,no,99,36.8,none,10
+105,3,male,14,95,yes,urban,yes,yes,96,37.1,"coughing, appetite loss",20
+106,1,female,10.5,80,no,rural,no,no,98,36.9,none,8
+107,2,male,13.2,85,yes,urban,yes,yes,91,38,"coughing, weakness, chest pain",145
+108,4,female,17.5,102,no,rural,yes,no,97,37,"coughing, difficulty breathing",15
+109,5,male,21,115,yes,urban,yes,yes,90,38.3,"coughing, weakness, difficulty breathing, appetite loss",170
+110,3,female,16,98,no,rural,no,no,98,36.7,none,5
+111,2,male,11.8,88,yes,urban,yes,yes,92,38.1,"coughing, chest pain",155
+112,4,female,19.2,107,no,rural,no,no,99,37,none,12
+113,1,male,9.5,78,yes,urban,yes,no,98,37,coughing,15
+114,5,female,22.1,112,no,rural,yes,no,97,37.2,"coughing, appetite loss",25
+115,3,male,14.8,99,yes,urban,yes,yes,91,38,"coughing, weakness, chest pain",140
+116,2,female,12,87,no,rural,no,no,98,36.9,none,7
+117,4,male,18.5,103,yes,urban,yes,yes,90,38.2,"coughing, difficulty breathing, appetite loss",175
+118,5,female,20.5,110,no,rural,yes,no,97,37,"coughing, weakness",30
+119,3,male,13.7,96,yes,urban,yes,yes,92,38.3,"coughing, chest pain, difficulty breathing",160
+120,1,female,11,82,no,rural,no,no,99,36.8,none,10
+121,4,male,19.5,108,yes,urban,yes,yes,91,38.1,"coughing, weakness",150
+122,2,female,11.2,88,no,rural,no,no,99,37.1,none,12
+123,5,male,22,113,yes,urban,yes,yes,92,38.3,"coughing, chest pain",155
+124,3,female,14.9,98,no,rural,no,no,97,36.9,none,8
+125,1,male,9,77,yes,urban,yes,no,96,37,"coughing, weakness",18
+126,2,female,12.3,86,no,rural,no,no,99,36.8,none,6
+127,5,male,21.5,112,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+128,4,female,18.7,105,no,rural,yes,yes,96,37,"coughing, appetite loss",20
+129,3,male,15.5,101,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+130,1,female,10.2,79,no,rural,no,no,98,36.9,none,5
+131,4,male,19.8,109,yes,urban,yes,no,97,37.2,"coughing, appetite loss",20
+132,2,female,11.5,89,no,rural,no,no,99,37.1,none,12
+133,5,male,22.3,114,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+134,3,female,15.2,99,no,rural,no,no,97,36.9,none,8
+135,1,male,9.3,80,yes,urban,yes,no,96,37,"coughing, appetite loss",20
+136,2,female,12.6,87,no,rural,no,no,99,36.8,none,6
+137,5,male,21.8,111,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+138,4,female,19,106,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+139,3,male,15.8,102,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+140,1,female,10.5,81,no,rural,no,no,98,36.9,none,5
+141,4,male,20.1,110,yes,urban,yes,yes,92,38.2,"coughing, weakness",150
+142,2,female,11.8,90,no,rural,no,no,99,37.1,none,12
+143,5,male,22.6,115,yes,urban,yes,yes,91,38.1,"coughing, chest pain",155
+144,3,female,15.5,100,no,rural,no,no,97,36.9,none,8
+145,1,male,9.6,82,yes,urban,yes,no,96,37,"coughing, appetite loss",20
+146,2,female,12.9,88,no,rural,no,no,99,36.8,none,6
+147,5,male,22.1,113,yes,urban,yes,yes,89,38.4,"coughing, weakness, chest pain",165
+148,4,female,19.3,107,no,rural,yes,no,97,37.2,"coughing, appetite loss",20
+149,3,male,16.1,103,yes,urban,yes,yes,91,38,"coughing, chest pain, difficulty breathing",145
+150,1,female,12,79,no,rural,no,no,95,37.22,"coughing, weakness, appetite loss",147
+151,2,female,14.8,100,yes,rural,yes,yes,91,35.27,"coughing, chest pain, weakness",130
+152,1,female,16.2,91,no,rural,no,yes,90,35.86,"coughing, weakness, chest pain",124
+153,3,female,16.2,80,no,urban,yes,yes,82,38.62,"weakness, chest pain, appetite loss",144
+154,1,male,8.9,77,no,urban,yes,yes,85,38.21,"chest pain, appetite loss",125
+155,4,male,18.9,101,no,rural,no,no,91,38.44,"coughing, chest pain, weakness",100
+156,2,male,14.2,81,no,urban,yes,no,91,37.57,"chest pain, appetite loss",5
+157,5,female,23.6,103,no,urban,no,yes,88,38.39,"weakness, appetite loss",98
+158,4,male,21,88,no,rural,no,no,91,35.2,"coughing, chest pain, weakness",99
+159,3,male,15.4,83,no,urban,yes,yes,91,38.41,"coughing, weakness, chest pain",102
+160,1,female,6.5,90,no,urban,no,yes,89,36.91,"coughing, weakness, appetite loss",143
+161,2,female,12.1,85,no,urban,no,yes,90,37.02,"weakness, chest pain, appetite loss",136
+162,3,male,20.2,88,yes,rural,no,yes,92,36.89,"coughing, weakness, appetite loss",121
+163,3,male,22.3,99,no,urban,yes,yes,91,38.12,"coughing, weakness, chest pain",115
+164,2,female,13.6,87,no,urban,no,yes,93,37.35,"coughing, chest pain, appetite loss",141
+165,2,female,14.8,102,yes,rural,no,no,92,38.05,"coughing, chest pain, weakness",9
+166,5,male,30.1,82,no,urban,yes,yes,90,36.97,"coughing, weakness, appetite loss",124
+167,3,female,19.6,97,no,rural,no,yes,91,37.1,"coughing, weakness, chest pain",121
+168,1,female,5.4,110,yes,urban,no,yes,92,38.02,"weakness, appetite loss",89
+169,5,female,27.7,97,no,rural,yes,yes,89,37.2,"coughing, chest pain, appetite loss",130
+170,4,male,28,105,no,urban,no,yes,94,37.52,"coughing, chest pain, weakness",150
+171,4,male,23.9,99,no,rural,no,yes,91,36.98,"coughing, weakness, appetite loss",126
+172,2,male,17.5,102,no,urban,yes,yes,92,38.2,"coughing, weakness, chest pain",131
+173,5,female,24.5,102,yes,rural,no,yes,91,36.95,"coughing, chest pain, weakness",142
+174,4,female,22.1,111,no,urban,no,yes,92,37.08,"coughing, weakness, appetite loss",86
+175,1,male,10.2,100,no,rural,yes,yes,93,37.45,"coughing, weakness, chest pain",58
+176,1,male,11.5,101,no,urban,no,yes,94,38.1,"coughing, appetite loss, chest pain",95
+177,1,female,6.7,107,yes,rural,no,no,92,37.13,"coughing, weakness, chest pain",77
+178,4,female,21.6,90,no,urban,yes,no,94,37.2,"coughing, appetite loss, weakness",83
+179,2,male,16.2,91,no,urban,yes,no,90,39,none,9
+180,3,female,19.4,110,no,urban,yes,yes,86,38.8,"coughing, appetite loss, weakness",142
